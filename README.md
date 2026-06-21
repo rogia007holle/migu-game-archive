@@ -1,2 +1,14 @@
 # migu-game-archive
-HTML page archive and documentation
+
+页面发布与维护记录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
